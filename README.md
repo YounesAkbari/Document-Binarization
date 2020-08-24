@@ -1,6 +1,6 @@
 <h1>Binarization of degraded document images using convolutional
 neural networks and wavelet-based multichannel and Predicted Two-Channel images.</h1>
-<a href="url">Download link</a>
+<a href="url" target="_blank">Download link</a>
 
 <h2>Prerequisites for Deployment:</h2>
 
