@@ -1,6 +1,17 @@
 Binarization of degraded document images using convolutional
-neural networks and wavelet-based multichannel images.
+neural networks and wavelet-based multichannel and Predicted Two-Channel images.
 
-This method is as a paper under review. 
+Prerequisites for Deployment:
 
-When the paper is accepted for publication, We will upload our material including: our codes and database.
+- Verify the MATLAB Runtime is installed and ensure you have installed version 9.4.
+
+Citations:
+
+@inproceedings{akbari2019binarization,
+  title={Binarization of Degraded Document Images using Convolutional Neural Networks Based on Predicted Two-Channel Images},
+  author={Akbari, Younes and Britto, Alceu S and Al-M{\'a}adeed, Somaya and Oliveira, Luiz S},
+  booktitle={2019 International Conference on Document Analysis and Recognition (ICDAR)},
+  pages={973--978},
+  year={2019},
+  organization={IEEE}
+}
