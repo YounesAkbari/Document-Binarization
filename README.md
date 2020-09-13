@@ -19,3 +19,12 @@ If you are using the code provided here in a publication, please cite our papers
   year={2019},
   organization={IEEE}
 }
+@article{akbari2020binarization,
+  title={Binarization of degraded document images using convolutional neural networks and wavelet-based multichannel images},
+  author={Akbari, Younes and Al-Maadeed, Somaya and Adam, Kalthoum},
+  journal={IEEE Access},
+  volume={8},
+  pages={153517--153534},
+  year={2020},
+  publisher={IEEE}
+}
